@@ -1,2 +1,4 @@
 #10/29
 1.axis:資料的dimension, IF 2維:row axis=0,column axis=1 
+2.fillna(value=0) -->null值轉為0
+3.轉換data type為 int --->astype(int) 
