@@ -1,4 +1,6 @@
 #10/29
+**iloc[:,1]--->逗號前為row,後為column
+           --->"A:B"代表 [col/rowA-col/rowB](exclude col/rowB)
 1.axis:資料的dimension, IF 2維:row axis=0,column axis=1 
 2.fillna(value=0) -->null值轉為0
 3.轉換data type為 int --->astype(int) 
